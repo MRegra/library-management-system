@@ -1,6 +1,6 @@
 package com.core.library.service;
 
-import com.core.library.model.BookEntity;
+import com.core.library.entities.BookEntity;
 import com.core.library.commons.Language;
 import org.springframework.stereotype.Service;
 
